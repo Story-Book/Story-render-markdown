@@ -1,19 +1,19 @@
 {
-  "name": "note-render-markdown",
+  "name": "story-render-markdown",
   "version": "0.0.1",
-  "description": "Note md render.",
+  "description": "Story md render.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soulteary/note-render-markdown.git"
+    "url": "git+https://github.com/soulteary/Story-render-markdown.git"
   },
   "author": "Su Yang <soulteary@gmail.com> (http://soulteary.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soulteary/note-render-markdown/issues"
+    "url": "https://github.com/soulteary/Story-render-markdown/issues"
   },
-  "homepage": "https://github.com/soulteary/note-render-markdown#readme"
+  "homepage": "https://github.com/soulteary/Story-render-markdown#readme"
 }
